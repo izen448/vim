@@ -32,6 +32,8 @@ git clone https://github.com/ernstvanderlinden/vim-coldfusion.git ~/.vim/bundle/
 git clone https://github.com/ccraciun/vim-dreammaker.git ~/.vim/bundle/vim-dreammaker
 # Solidity
 git clone https://github.com/tomlion/vim-solidity.git ~/.vim/bundle/vim-solidity
+# Markdown
+git clone https://github.com/plasticboy/vim-markdown.git ~/.vim/bundle/vim-markdown
 
 # Back home
 cd
