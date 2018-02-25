@@ -16,6 +16,8 @@ git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 git clone https://github.com/tpope/vim-fugitive.git ~/.vim/bundle/vim-fugitive
 # Indent Guides
 git clone git://github.com/nathanaelkane/vim-indent-guides.git ~/.vim/bundle/vim-indent-guides
+# Syntastic
+git clone --depth=1 https://github.com/vim-syntastic/syntastic.git ~/.vim/bundle/syntastic
 
 # Coloring
 # ------------
