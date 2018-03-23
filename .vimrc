@@ -96,3 +96,5 @@ func! WordProcessorMode()
     setlocal spell spelllang=en_us
     setlocal noexpandtab
 endfu
+
+com! WP call WordProcessorMode()
