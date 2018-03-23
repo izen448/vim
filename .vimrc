@@ -88,3 +88,11 @@ let g:syntastic_check_on_wq = 0
 " VIM-Markdown
 " Disable Code Folding
 let g:vim_markdown_folding_disabled = 1
+
+" Word Processor Mode
+func! WordProcessorMode()
+    setlocal textwidth=80
+    setlocal smartindent
+    setlocal spell spelllang=en_us
+    setlocal noexpandtab
+endfu
